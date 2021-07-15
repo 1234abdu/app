@@ -31,5 +31,12 @@
 
 }
 @media(max-width:576px){
-
+    .info_tittle{
+        width: 300px;
+        flex-direction: column;
+    }
+    .info_text{
+        width: 200px;
+        flex-direction: column;
+    }
 }
