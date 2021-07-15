@@ -37,6 +37,7 @@
     }
     .info_text{
         width: 200px;
-        flex-direction: column;
+        
+     
     }
 }
